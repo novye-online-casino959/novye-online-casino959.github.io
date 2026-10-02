@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://novye-online-casino959.github.io/sitemap.xml
